@@ -1,0 +1,139 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "023D7CF3-C1BC-4EFF-BB7152B07189819C"
+			RelativePath = "CuocPhi\ds.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\ds.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "1CB2879C-F8F1-4B13-A7FA5543275227E3"
+			RelativePath = "DangKy\ddđ.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DangKy\ddđ.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "1CB8308E-2BCF-4EB6-AB27C56C0E6991A4"
+			RelativePath = "CuocPhi\CapNhatCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\CapNhatCuocPhi.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "21F5CF83-7B11-44A0-B1912B5FBC284491"
+			RelativePath = "CuocPhi\DanhSachCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\DSCuocPhi.gui"/>
+		<FileInfo
+			ID = "28692E89-E664-431A-BEB3C6BDA3D32F93"
+			RelativePath = "CuocPhi\ThemHoaDon.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\ThemHoaDon.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "38CF8C06-C457-403C-8441DFA12282AE4C"
+			RelativePath = "screenshot.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "screenshot.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "43D0902E-4985-490A-B4E32CF6678652DA"
+			RelativePath = "DangKy\TimKiem.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DangKy\TimKiem.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "465A7AC2-D2D0-4AFD-A34A7F3B68D3401F"
+			RelativePath = "DanhSachCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\DanhSachCuocPhi.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "478B2D3A-BE07-4CD8-AC022B985867F335"
+			RelativePath = "DangKy\CapNhatNguoiDung.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DangKy\CapNhatNguoiDung.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "4BBD4516-A822-469D-8EAC001E2B590237"
+			RelativePath = "CuocPhi\ChiTietCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\ChiTietCp.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "7DBB0E6C-D38F-4909-B67B35037978C4BC"
+			RelativePath = "CuocPhi\HoaDonCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\HoaDonCuocPhi.gui"/>
+		<FileInfo
+			ID = "96EB7AC9-5C88-43F8-A00CD3BCA03C783B"
+			RelativePath = "CuocPhi\dscp.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\dscp.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "AB01B820-19E4-48C1-B64AE604BF684E63"
+			RelativePath = "CuocPhi\TinhTrang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\TinhTran.gui"/>
+		<FileInfo
+			ID = "CF308DE8-8E0A-4A68-A558B70F9B049C8D"
+			RelativePath = "HoaDonCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\HoaDonCuocPhi.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "D9080C46-3D3C-423D-B51D74B0AB47E557"
+			RelativePath = "CuocPhi\TimKiemHoaDon.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\TimKiemHoaD.gui"/>
+		<FileInfo
+			ID = "D9751769-E7DF-4EBB-828BA8A30D1B076B"
+			RelativePath = "CuocPhi\TimKiemHoaDon.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\TimKiemHoaDon.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "DD3EC67F-3373-41C6-A175B7685C58BE66"
+			RelativePath = "CuocPhi\TinhTrang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\TinhTrang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E04C95D0-718B-42A1-B06D1389C1D5E852"
+			RelativePath = "DangKy\TimKiemNguoiDung.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DangKy\TimKiemNguoiDung.gui"/>
+		<FileInfo
+			ID = "E3F9D181-DAE1-4135-A9F7D99521F47082"
+			RelativePath = "CuocPhi\HoaDonCpi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\CuocPhiHangThang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E60C7BC1-C0D9-4C3A-A9BE62CC5D68A6B5"
+			RelativePath = "CuocPhi\ghdb .gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\ghdb .gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E850C5A2-4A21-4D9C-B183C46C1BBC7B48"
+			RelativePath = "CuocPhi\ChiTietCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\ChiTietCuocPhi.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "F4E5ECAA-2A72-4C21-9E239619189028EC"
+			RelativePath = "CuocPhi\CapNhatCuocPhi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\CapNhatCuocP.gui"/>
+		<FileInfo
+			ID = "FAAC1033-6590-4B58-AB5B964A1013F7B0"
+			RelativePath = "CuocPhi\hgjmcl.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CuocPhi\hgjmcl.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

@@ -1,0 +1,39 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Toolbars">
+	<OpenFiles
+		CID = "1"
+		LastActive = "6">
+		<File
+			FileID = "21F5CF83-7B11-44A0-B1912B5FBC284491"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\DanhSachCuocPhi.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "7DBB0E6C-D38F-4909-B67B35037978C4BC"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\HoaDonCuocPhi.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4BBD4516-A822-469D-8EAC001E2B590237"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\ChiTietCuocPhi.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1CB8308E-2BCF-4EB6-AB27C56C0E6991A4"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\CapNhatCuocPhi.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D9751769-E7DF-4EBB-828BA8A30D1B076B"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\TimKiemHoaDon.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "DD3EC67F-3373-41C6-A175B7685C58BE66"
+			RootPath = "$Container"
+			RelativePathname = "CuocPhi\TinhTrang.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
